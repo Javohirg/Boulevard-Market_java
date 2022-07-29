@@ -176,4 +176,7 @@
     .bottom_content-card {
         width: 70%;
     }
+    .header{
+        background: url(../img/Header.png) -300px 0/cover no-repeat;
+    }
 }
